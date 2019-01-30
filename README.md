@@ -6,4 +6,4 @@ Data is received from Cornell Movie-Dialogs Corpus.
 
 - Notebook genre_prediction_model.ipynb generates the model: four simple models stacked with LightGBM on the second level.
 
-- Flask app in scorer.py demonstrats how it works. 
+- Flask app in scorer.py demonstrats how model works. 
