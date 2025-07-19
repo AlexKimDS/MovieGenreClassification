@@ -9,4 +9,4 @@ Data is received from Cornell Movie-Dialogs Corpus.
 - Flask app in scorer.py demonstrats how model works.
 
 
-![Uploading 20250719_1230_Genre Classification Avatar_simple_compose_01k0h71ef7ew3bv72463aw04m7.png…]()
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/69b7264f-64eb-43ed-bed3-441e00926e51" />
